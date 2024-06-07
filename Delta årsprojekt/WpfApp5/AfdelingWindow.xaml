@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp5.DepartmentDataWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Department Data" Height="300" Width="400">
+    <Grid Name="MainGrid">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <Canvas Name="DepartmentCanvas" Background="White"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
+
+
+
+

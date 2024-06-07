@@ -1,0 +1,49 @@
+﻿<Page x:Class="WpfApp5.Opgave"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp5"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="500"
+      Title="Opgave">
+
+    <Canvas Background="White" Margin="0,0,0,-50">
+        <TextBox x:Name="CPRTextBox" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="75" Width="300" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBox x:Name="PatientnavnTextBox" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="98" Width="300" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBox x:Name="StueTextBox" Canvas.Left="368" TextWrapping="Wrap" Canvas.Top="121" Width="106" HorizontalAlignment="Center" VerticalAlignment="Top" Height="22" RenderTransformOrigin="0.47,-0.429"/>
+        <TextBox x:Name="AfdelingTextBox" Canvas.Left="174" Canvas.Top="121" Width="189" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <TextBox x:Name="SærligeForholdTextBox" Canvas.Left="173" TextWrapping="Wrap" Canvas.Top="296" Width="130" Height="22" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Label Content="CPR" Canvas.Left="23" Canvas.Top="71"/>
+        <Label Content="Patientnavn" Canvas.Left="23" Canvas.Top="89" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Afdeling" Canvas.Left="23" Canvas.Top="114" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Isolationspatient" Canvas.Left="23" Canvas.Top="164" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Prøver" Canvas.Left="23" Canvas.Top="195" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Særlige Forhold" Canvas.Left="24" Canvas.Top="292" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Inaktiv" Canvas.Left="23" Canvas.Top="340" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Prioritet" Canvas.Left="24" Canvas.Top="366" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Bestilt tid" Canvas.Left="25" Canvas.Top="392" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Kommentar" Canvas.Left="25" Canvas.Top="434" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <RadioButton x:Name="IsolationYesRadioButton" Content="Ja" Canvas.Left="174" Canvas.Top="170" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <RadioButton x:Name="IsolationNoRadioButton" Content="Nej" Canvas.Left="208" Canvas.Top="170" HorizontalAlignment="Left" VerticalAlignment="Center" Checked="RadioButton_Checked"/>
+        <CheckBox x:Name="BlodprøveCheckBox" Content="Blodprøve" Canvas.Left="174" Canvas.Top="201" Checked="CheckBox_Checked"/>
+        <CheckBox x:Name="EKGCheckBox" Content="EKG" Canvas.Left="174" Canvas.Top="221" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <CheckBox x:Name="GlukoseCsvCheckBox" Content="Glukose-Csv" Canvas.Left="174" Canvas.Top="242" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <CheckBox x:Name="POCTPCRCheckBox" Content="POCT-PCR" Canvas.Left="174" Canvas.Top="262" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <CheckBox x:Name="SærligeOBSCheckBox" Content="Særlige OBS" Canvas.Left="281" Canvas.Top="200" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <CheckBox x:Name="MedicinafhengigCheckBox" Content="Medicinafhængig prøvetagning" Canvas.Left="281" Canvas.Top="221" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <CheckBox x:Name="InaktivCheckBox" Content="Inaktiv" Canvas.Left="174" Canvas.Top="346" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <RadioButton x:Name="NormalRadioButton" Content="Normal" Canvas.Left="174" Canvas.Top="372" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <RadioButton x:Name="HasterRadioButton" Content="Haster" Canvas.Left="250" Canvas.Top="372" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <RadioButton x:Name="KritiskRadioButton" Content="Kritisk" Canvas.Left="324" Canvas.Top="372" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.881,0.408"/>
+        <DatePicker x:Name="DatoDatePicker" Canvas.Left="171" Canvas.Top="394" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBox x:Name="KommentarTextBox" Canvas.Left="157" TextWrapping="Wrap" Canvas.Top="442" Width="317" Height="48"/>
+        <Button Content="Opret" Canvas.Left="379" Canvas.Top="511" Height="29" Width="84" HorizontalAlignment="Left" VerticalAlignment="Center" Click="Opret_Click"/>
+        <Button Content="Anuller" Canvas.Left="250" Canvas.Top="511" Height="29" Width="84" HorizontalAlignment="Left" VerticalAlignment="Center" Click="Anuller_Click"/>
+        <TextBlock Canvas.Left="102" TextWrapping="Wrap" Text="Opgave oprettelse" Height="66" Width="296" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36"/>
+    </Canvas>
+</Page>
+
+
+
+

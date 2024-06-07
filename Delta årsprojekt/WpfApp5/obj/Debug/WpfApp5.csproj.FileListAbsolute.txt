@@ -1,0 +1,38 @@
+C:\Datamatikker\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Datamatikker\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Datamatikker\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Datamatikker\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\AfdelingWindow.baml
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\MainWindow.baml
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\AfdelingWindow.g.cs
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\App.g.cs
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Datamatikker\Delta årsprojekt\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Datamatikker\Delta årsprojekt\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Datamatikker\Delta årsprojekt\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\DepartmentWindow.g.cs
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\DepartmentWindow.baml
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\LocationWindow.baml
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\LocationWindow.g.cs
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\OpretOpgaveWindow.g.cs
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\OpretOpgaveWindow.baml
+C:\Datamatikker\Delta årsprojekt\WpfApp5\obj\Debug\WpfApp5.csproj.SuggestedBindingRedirects.cache
